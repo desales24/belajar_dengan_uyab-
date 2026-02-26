@@ -19,6 +19,11 @@ nano (nama_file)
 ``
 untuk mengedit isi file 
 
+``
+rm -rf (nama file/folder)
+``
+untuk menghapus file/folder
+
 ## komen untuk docker 
 ``
 docker compose up -d --buid
