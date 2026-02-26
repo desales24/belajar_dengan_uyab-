@@ -24,6 +24,11 @@ rm -rf (nama file/folder)
 ``
 untuk menghapus file/folder
 
+`` 
+mv (nama folder/file)
+``
+untuk mengganti nama file/folder
+
 ## komen untuk docker 
 ``
 docker compose up -d --buid
